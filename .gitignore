@@ -1,0 +1,3 @@
+bpf_*.go
+bpf_*.o
+go-trie-repro
